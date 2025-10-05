@@ -1,6 +1,6 @@
 #!/bin/bash
 set -x
-
+my_attempt
 ############################################
 # DSI CONSULTING INC. Project setup script #
 ############################################
